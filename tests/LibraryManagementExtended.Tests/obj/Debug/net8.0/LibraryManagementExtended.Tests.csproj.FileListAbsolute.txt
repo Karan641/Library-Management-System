@@ -1,0 +1,21 @@
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\C# Week 4 Final Project.deps.json
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\C# Week 4 Final Project.runtimeconfig.json
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\C# Week 4 Final Project.exe
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\LibraryManagementExtended.Tests.exe
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\LibraryManagementExtended.Tests.deps.json
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\LibraryManagementExtended.Tests.runtimeconfig.json
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\LibraryManagementExtended.Tests.dll
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\LibraryManagementExtended.Tests.pdb
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\C# Week 4 Final Project.dll
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\bin\Debug\net8.0\C# Week 4 Final Project.pdb
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.csproj.AssemblyReference.cache
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.AssemblyInfoInputs.cache
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.AssemblyInfo.cs
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.csproj.CoreCompileInputs.cache
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryM.35CB5449.Up2Date
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.dll
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\refint\LibraryManagementExtended.Tests.dll
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.pdb
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\LibraryManagementExtended.Tests.genruntimeconfig.cache
+D:\C# Week 4 Final Project\tests\LibraryManagementExtended.Tests\obj\Debug\net8.0\ref\LibraryManagementExtended.Tests.dll

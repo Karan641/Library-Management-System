@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "Book",
+    "Data": {
+      "Title": "The Great Gatsby",
+      "Publisher": "Penguin",
+      "PublicationYear": 1925
+    }
+  },
+  {
+    "Type": "Magazine",
+    "Data": {
+      "Title": "National Geographic",
+      "Publisher": "NatGeo",
+      "PublicationYear": 2022
+    }
+  },
+  {
+    "Type": "Newspaper",
+    "Data": {
+      "Title": "The Kathmandu Post",
+      "Publisher": "Kantipur",
+      "PublicationYear": 2024
+    }
+  }
+]

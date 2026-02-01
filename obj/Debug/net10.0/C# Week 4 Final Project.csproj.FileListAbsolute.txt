@@ -1,0 +1,14 @@
+D:\C# Week 4 Final Project\bin\Debug\net10.0\C# Week 4 Final Project.exe
+D:\C# Week 4 Final Project\bin\Debug\net10.0\C# Week 4 Final Project.deps.json
+D:\C# Week 4 Final Project\bin\Debug\net10.0\C# Week 4 Final Project.runtimeconfig.json
+D:\C# Week 4 Final Project\bin\Debug\net10.0\C# Week 4 Final Project.dll
+D:\C# Week 4 Final Project\bin\Debug\net10.0\C# Week 4 Final Project.pdb
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.AssemblyInfoInputs.cache
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.AssemblyInfo.cs
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.csproj.CoreCompileInputs.cache
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.dll
+D:\C# Week 4 Final Project\obj\Debug\net10.0\refint\C# Week 4 Final Project.dll
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.pdb
+D:\C# Week 4 Final Project\obj\Debug\net10.0\C# Week 4 Final Project.genruntimeconfig.cache
+D:\C# Week 4 Final Project\obj\Debug\net10.0\ref\C# Week 4 Final Project.dll
